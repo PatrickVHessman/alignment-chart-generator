@@ -1,0 +1,11 @@
+
+
+.AlignmentCells {
+    background: #000;
+    flex: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif; 
+}
